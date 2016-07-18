@@ -136,6 +136,6 @@ map.centerAndZoom(point, 8);
 			map.openInfoWindow(infoWindow,pts); //开启信息窗口
 		};
 	
-	
+	/*增加说明*/
 
 </script>
